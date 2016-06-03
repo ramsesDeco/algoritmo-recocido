@@ -1,11 +1,11 @@
-<div>
+<div *ngIf="lugares">
 
 	<label>Capacidad del carro: {{carro.capacidad}}</label>
 	<br/>
 	<button (click)='algoritmo()'>Iniciar</button>
 	<button (click)='reiniciar()'>Reiniciar</button>
 
-	<h2>Solucion</h2>
+	<h2>Solucion {{iteraciones}}</h2>
 	<table width="100%" border="1">
 		<thead>
 			<tr>
@@ -25,17 +25,20 @@
 						<tbody>
 							<tr *ngFor='let lugar of recorrido.lugares;'>
 								<td align="center">{{lugar.label}}</td>
-								<td align="center">{{lugar.request}}</td>
+								<td align="center"><span class="lugar_demanda">{{lugar.request}}</span>  <b>( {{lugar.demanda_inferior}} - {{lugar.demanda_superior}} )</b></td>
 							</tr>
 						</tbody>
 					</table>
 				</td>
 
-				<td align="center">{{recorrido.valor}} mts</td>
+				<td align="center">
+					<label>Distancia:</label> {{recorrido.valor | number: '.3-3'}}mts<br/>
+					<label>Demanda:</label> {{recorrido.demanda}}<br/>
+					</td>
 			</tr>
 
 			<tr>
-				<td colspan="2" align="center">Valor Total:  <b>{{solucionInicial.valor}} mts</b> </td>
+				<td colspan="2" align="center">Valor Total:  <b>{{solucionInicial.valor | number: '.3-3'}} mts</b> </td>
 			</tr>
 		</tbody>
 	</table>

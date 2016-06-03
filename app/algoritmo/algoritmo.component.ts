@@ -1,37 +1,64 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 
 import {punto} from "./punto";
-import { lugares } from './mock-lugares';
+import { PuntoService } from './lugaresService';
 import { almacen } from './almacen';
 
 @Component({
 	selector: 'algoritmo-ruteo',
 	templateUrl: './app/algoritmo/algoritmo.html',
-	styleUrls: ['./app/algoritmo/algoritmo.component.css']
+	styleUrls: ['./app/algoritmo/algoritmo.component.css'],
+	providers: [PuntoService]
 })
-export class algoritmoComponent {
+export class algoritmoComponent implements OnInit{
 
 	public carro = { capacidad: 500 };
-	
-	public solucionInicial: solucion = this.obtenerSolucion();
+	//public lugares: punto[];
+	public lugares;	
+	public solucionInicial: solucion;
+	public temperaturaInicial: number;
+	public factorEnfriamiento: number;
+	public temperaturaFinal: number;
+	public solucionMejor: solucion;
+	public temperaturas: number[];
+	public iteraciones: number;
 
-
-	public temperaturaInicial: number = 1000;
-	public factorEnfriamiento: number = 0.85;
-	public temperaturaFinal: number = 0;
-	public solucionMejor: solucion = this.solucionInicial;
-
-	public temperaturas: number[] = [this.temperaturaInicial];
-
-	constructor() {
+	constructor(private puntoService: PuntoService) {
 
 	}
 
-	algoritmo(){
+	ngOnInit() {
+		this.puntoService.getLugares()
+			.subscribe(lugares => { 
+
+				//Generar demanda aleatoriamente
+				lugares.filter((lugar) => {
+					let demandaAlAzar:number = Math.floor(Math.random() * (lugar.demanda_superior - lugar.demanda_inferior));
+					lugar.request = demandaAlAzar + lugar.demanda_inferior;
+				});
+
+				this.lugares = lugares;
+
+			
+				this.solucionInicial = this.obtenerSolucion();
+
+				this.temperaturaInicial = 1000;
+				this.factorEnfriamiento = 0.85;
+				this.temperaturaFinal = 0;
+				this.solucionMejor = this.solucionInicial;
+				this.temperaturas = [this.temperaturaInicial];
+				console.log("Entra")
+				this.iteraciones = 0;
+		});
+
+
+	}
+
+	algoritmo() {
 		while (this.temperaturaInicial > this.temperaturaFinal){
 
-			let numeroCiclos = 100;
+			let numeroCiclos = 200;
 
 			while(numeroCiclos > 0){
 				let solucionTmp = this.obtenerSolucion();
@@ -64,14 +91,16 @@ export class algoritmoComponent {
 
 	obtenerSolucion() {
 		let sol: solucion = { valor: 0, rutas: [] };
-		let rec: recorrido = {valor: 0, lugares:[almacen]};
+		let rec: recorrido = {valor: 0, demanda:0, lugares:[almacen]};
 
 		//let lugaresTmp = lugares;
-		let lugaresTmp = lugares.slice();
+		let lugaresTmp = this.lugares.slice();
 
 		let visitados = new Set();
 
 		while (lugaresTmp.length > 0) {
+
+			this.iteraciones++;
 			let indexAlAzar = Math.floor(Math.random() * lugaresTmp.length);
 
 			let cargaDelRecorrido: number = 0;
@@ -92,7 +121,8 @@ export class algoritmoComponent {
 				rec.lugares.push(almacen);
 
 				//Se calcula el valor de cada recorrido
-				for (let i = 0; i < rec.lugares.length ; i++) {
+				for (let i = 0; i < rec.lugares.length; i++) {
+					rec.demanda += rec.lugares[i].request;
 					if (i < rec.lugares.length - 1) {
 						rec.valor += distancia(rec.lugares[i].gps, rec.lugares[i + 1].gps);
 					}
@@ -101,7 +131,7 @@ export class algoritmoComponent {
 				sol.rutas.push(rec);
 
 				//Se inicializa el recorrido de nuevo en el almacen
-				rec = { valor: 0, lugares: [almacen] };
+				rec = { valor: 0, demanda:0, lugares: [almacen] };
 
 				visitados.clear();
 			}
@@ -119,6 +149,7 @@ export class algoritmoComponent {
 		this.temperaturaInicial = 1000;
 		this.solucionInicial = this.obtenerSolucion();
 		this.temperaturas = [this.temperaturaInicial];
+		this.iteraciones = 0;
 	}
 
 
@@ -145,6 +176,7 @@ export class algoritmoComponent {
 
 interface recorrido {
 	valor: number,
+	demanda: number,
 	lugares: punto[]
 }
 

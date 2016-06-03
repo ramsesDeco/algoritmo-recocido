@@ -1,0 +1,2192 @@
+[
+  {
+   "id": 1,
+   "label": "CLAUDIA MONTAÑO",
+   "gps": {
+     "longitude": "-101.4413544",
+     "latitude": "26.87614481"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 2,
+   "label": "MISC CRISTINA VILLARREAL",
+   "gps": {
+     "longitude": "-101.4066842",
+     "latitude": "26.92277879"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 3,
+   "label": "JULIA LOPEZ(BAZAR)",
+   "gps": {
+     "longitude": "-101.3935871",
+     "latitude": "26.92361692"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 4,
+   "label": "RAFAELA MEJIA  ",
+   "gps": {
+     "longitude": "-101.4605601",
+     "latitude": "26.91361013"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 5,
+   "label": "GERA",
+   "gps": {
+     "longitude": "-101.4585982",
+     "latitude": "26.92922646"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 6,
+   "label": "FILIBERTO BARRON",
+   "gps": {
+     "longitude": "-101.4066319",
+     "latitude": "26.88807865"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 7,
+   "label": "TORTILLERIA",
+   "gps": {
+     "longitude": "-101.4291392",
+     "latitude": "26.88650028"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 8,
+   "label": "CLAUDIA ZAVALA",
+   "gps": {
+     "longitude": "-101.4389452",
+     "latitude": "26.87033606"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 9,
+   "label": "GUADALUPE SAN JUANA RAMOS",
+   "gps": {
+     "longitude": "-101.388748",
+     "latitude": "26.91446719"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 10,
+   "label": "MARIA DEL SOCORRO",
+   "gps": {
+     "longitude": "-101.4249365",
+     "latitude": "26.8557525"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 11,
+   "label": "JUAN GARNICA RDZ",
+   "gps": {
+     "longitude": "-101.3959456",
+     "latitude": "26.91146325"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 12,
+   "label": "FLOR ESTELA ARIZPE",
+   "gps": {
+     "longitude": "-101.4682378",
+     "latitude": "26.92163079"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 13,
+   "label": "LUIS CANTU BUSTOS",
+   "gps": {
+     "longitude": "-101.4491125",
+     "latitude": "26.90829262"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 14,
+   "label": "JUANITA MEDRANO",
+   "gps": {
+     "longitude": "-101.3975747",
+     "latitude": "26.9205593"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 15,
+   "label": "MA DEL CARMEN PIÑA",
+   "gps": {
+     "longitude": "-101.4624432",
+     "latitude": "26.92437551"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 16,
+   "label": "DORA ELIA LINARES",
+   "gps": {
+     "longitude": "-101.4635531",
+     "latitude": "26.92179189"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 17,
+   "label": "CESAR DUARTE VALDEZ",
+   "gps": {
+     "longitude": "-101.4561146",
+     "latitude": "26.91291107"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 18,
+   "label": "RICARDO PEREZ(MINI SUPER UZZY)",
+   "gps": {
+     "longitude": "-101.4373477",
+     "latitude": "26.88654393"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 19,
+   "label": "ANA ISABEL BORTONI(MISC KELLY)",
+   "gps": {
+     "longitude": "-101.4342409",
+     "latitude": "26.89337763"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 20,
+   "label": "JOSE LOPEZ GUERRA",
+   "gps": {
+     "longitude": "-101.4339861",
+     "latitude": "26.88482094"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 21,
+   "label": "MA GUADALUPE LUCIANO",
+   "gps": {
+     "longitude": "-101.4396161",
+     "latitude": "26.85605698"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 22,
+   "label": "MARGARITA FLORES GARZA",
+   "gps": {
+     "longitude": "-101.434465",
+     "latitude": "26.88455062"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 23,
+   "label": "MARCOS LEDEZMA",
+   "gps": {
+     "longitude": "-101.4291661",
+     "latitude": "26.87512458"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 24,
+   "label": "MARTHA",
+   "gps": {
+     "longitude": "-101.4235835",
+     "latitude": "26.84940291"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 25,
+   "label": "YANETH MURILLO",
+   "gps": {
+     "longitude": "-101.4599298",
+     "latitude": "26.9086861"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 26,
+   "label": "JESUS MANCHA",
+   "gps": {
+     "longitude": "-101.4460589",
+     "latitude": "26.91102029"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 27,
+   "label": "YADHIRA E SANCHEZ",
+   "gps": {
+     "longitude": "-101.4473104",
+     "latitude": "26.9130041"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 28,
+   "label": "OVIDIO GUIPZOT",
+   "gps": {
+     "longitude": "-101.4574358",
+     "latitude": "26.91303362"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 29,
+   "label": "JUAN ESPARZA",
+   "gps": {
+     "longitude": "-101.4528233",
+     "latitude": "26.91850066"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 30,
+   "label": "ROSA GAYTAN REINA",
+   "gps": {
+     "longitude": "-101.4516269",
+     "latitude": "26.91860938"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 31,
+   "label": "ROSA HILDA VILLALOBOS",
+   "gps": {
+     "longitude": "-101.4575564",
+     "latitude": "26.91782557"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 32,
+   "label": "MISC PATTY",
+   "gps": {
+     "longitude": "-101.460633",
+     "latitude": "26.91281713"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 33,
+   "label": "LA LAGUNA",
+   "gps": {
+     "longitude": "-101.4605213",
+     "latitude": "26.90642716"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 34,
+   "label": "MARIA GENOVEVA MARTINEZ(DAGO)",
+   "gps": {
+     "longitude": "-101.4493448",
+     "latitude": "26.91558822"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 35,
+   "label": "MISC. WUICHO",
+   "gps": {
+     "longitude": "-101.4568742",
+     "latitude": "26.91604044"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 36,
+   "label": "MARCELINO JUAREZ",
+   "gps": {
+     "longitude": "-101.4348371",
+     "latitude": "26.86248415"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 37,
+   "label": "YOSSDI CHU",
+   "gps": {
+     "longitude": "-101.4279897",
+     "latitude": "26.86841061"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 38,
+   "label": "MACARIO MELGAZA",
+   "gps": {
+     "longitude": "-101.4674606",
+     "latitude": "26.91949041"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 39,
+   "label": "CARNICERIA ALVARADO",
+   "gps": {
+     "longitude": "-101.4580681",
+     "latitude": "26.93516672"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 40,
+   "label": "MARIA RIVAS GAMEZ",
+   "gps": {
+     "longitude": "-101.4525655",
+     "latitude": "26.90711482"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 41,
+   "label": "TRANSPORTES ELISEO",
+   "gps": {
+     "longitude": "-101.4208005",
+     "latitude": "26.84601046"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 42,
+   "label": "CARMEN MARTINEZ GARCIA(CHIQUIS)",
+   "gps": {
+     "longitude": "-101.4448311",
+     "latitude": "26.86434343"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 43,
+   "label": "GREGORIO LOPEZ MORENO/ LEONARDA POSADAS",
+   "gps": {
+     "longitude": "-101.4439434",
+     "latitude": "26.86899311"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 44,
+   "label": "JULIA VILLA LOPEZ",
+   "gps": {
+     "longitude": "-101.4390669",
+     "latitude": "26.87586209"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 45,
+   "label": "ROSSY AMAYA PICASSO",
+   "gps": {
+     "longitude": "-101.4387569",
+     "latitude": "26.86800521"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 46,
+   "label": "JUANITA GARCIA",
+   "gps": {
+     "longitude": "-101.4233525",
+     "latitude": "26.85507068"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 47,
+   "label": "GULLERMINA TORRES",
+   "gps": {
+     "longitude": "-101.4394797",
+     "latitude": "26.86918275"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 48,
+   "label": "GUADALUPE MATA BRIONES",
+   "gps": {
+     "longitude": "-101.4396552",
+     "latitude": "26.8744048"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 49,
+   "label": "MISC PRONTO(GUADALUPE HERNANDEZ)",
+   "gps": {
+     "longitude": "-101.4251112",
+     "latitude": "26.85613417"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 50,
+   "label": "GRACIELA CARRILLO(LOS AGUELOS)",
+   "gps": {
+     "longitude": "-101.4333117",
+     "latitude": "26.8540881"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 51,
+   "label": "NELY RIVERA",
+   "gps": {
+     "longitude": "-101.4449614",
+     "latitude": "26.86793009"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 52,
+   "label": "MINI SUPER RICKY",
+   "gps": {
+     "longitude": "-101.4410076",
+     "latitude": "26.86923701"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 53,
+   "label": "GASPAR GALINDO",
+   "gps": {
+     "longitude": "-101.4433396",
+     "latitude": "26.86627808"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 54,
+   "label": "HECTOR SALINAS DE LEON",
+   "gps": {
+     "longitude": "-101.4012841",
+     "latitude": "26.88278127"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 55,
+   "label": "ELADIO MARTINEZ CRUZ",
+   "gps": {
+     "longitude": "-101.4499807",
+     "latitude": "26.87401297"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 56,
+   "label": "JOSE RAUL",
+   "gps": {
+     "longitude": "-101.4230317",
+     "latitude": "26.8504414"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 57,
+   "label": "BERTHA OLVERA",
+   "gps": {
+     "longitude": "-101.4217176",
+     "latitude": "26.85008225"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 58,
+   "label": "MARIA ELENA GONGORA",
+   "gps": {
+     "longitude": "-101.4539169",
+     "latitude": "26.90995296"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 59,
+   "label": "MISCELANEA NORMA",
+   "gps": {
+     "longitude": "-101.4317281",
+     "latitude": "26.85709422"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 60,
+   "label": "AGAPITA JUEV",
+   "gps": {
+     "longitude": "-101.4347101",
+     "latitude": "26.87329089"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 61,
+   "label": "HIJA AGAPITA JUEV",
+   "gps": {
+     "longitude": "-101.4348585",
+     "latitude": "26.87330832"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 62,
+   "label": "ALICIA RAMIREZ GARCIA(DICONSA 158)",
+   "gps": {
+     "longitude": "-101.4570609",
+     "latitude": "26.94092696"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 63,
+   "label": "ROSA MARIA QUIRINO ( MISC  PERLITA)",
+   "gps": {
+     "longitude": "-101.4568065",
+     "latitude": "26.93307592"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 64,
+   "label": "MARIA DE JESUS HERNANDEZ",
+   "gps": {
+     "longitude": "-101.4551859",
+     "latitude": "26.93371341"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 65,
+   "label": "OLGA DE LOS SANTOS",
+   "gps": {
+     "longitude": "-101.4403066",
+     "latitude": "26.93820869"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 66,
+   "label": "MARIA DEL SOCORRO RDZ",
+   "gps": {
+     "longitude": "-101.4563504",
+     "latitude": "26.9340571"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 67,
+   "label": "CARMEN JIMENEZ",
+   "gps": {
+     "longitude": "-101.4579722",
+     "latitude": "26.92837907"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 68,
+   "label": "MISC HUIZACHAL(MA ANTONIA RIVAS)",
+   "gps": {
+     "longitude": "-101.4451734",
+     "latitude": "26.95210047"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 69,
+   "label": "GILBERTO SUAREZ MORALES (MISC CHEROKEE)",
+   "gps": {
+     "longitude": "-101.4421272",
+     "latitude": "26.89043127"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 70,
+   "label": "JUANITA PEREZ DE VALERA",
+   "gps": {
+     "longitude": "-101.42857",
+     "latitude": "26.94080721"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 71,
+   "label": "MISC PATTY(ELVA ROSA ESTRADA)",
+   "gps": {
+     "longitude": "-101.4528532",
+     "latitude": "26.93575612"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 72,
+   "label": "MARIA DEL CONSUELO CARRIZALES",
+   "gps": {
+     "longitude": "-101.4470464",
+     "latitude": "26.9338757"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 73,
+   "label": "MARIA ESTHER ALVAREZ",
+   "gps": {
+     "longitude": "-101.4571347",
+     "latitude": "26.94273649"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 74,
+   "label": "ERNESTINA RAMIREZ ALVARADO",
+   "gps": {
+     "longitude": "-101.4594897",
+     "latitude": "26.93511283"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 75,
+   "label": "MISC EMANUEL",
+   "gps": {
+     "longitude": "-101.442635",
+     "latitude": "26.9316923"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 76,
+   "label": "BERTHA ALICIA ONOFRE(MARY)",
+   "gps": {
+     "longitude": "-101.4454633",
+     "latitude": "26.95289581"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 77,
+   "label": "SAN JUANITA NHOEMI MARTINEZ(1 DE MAYO)",
+   "gps": {
+     "longitude": "-101.4277249",
+     "latitude": "26.89100557"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 78,
+   "label": "SANDRA LUZ IBARRA",
+   "gps": {
+     "longitude": "-101.4652537",
+     "latitude": "26.92603997"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 79,
+   "label": "IRMA GARZA",
+   "gps": {
+     "longitude": "-101.448995",
+     "latitude": "26.9466289"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 80,
+   "label": "JUANITA GARCIA",
+   "gps": {
+     "longitude": "-101.4282494",
+     "latitude": "26.88554284"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 81,
+   "label": "FERREMART",
+   "gps": {
+     "longitude": "-101.4464117",
+     "latitude": "26.9303994"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 82,
+   "label": "SARITA TORRES LOPEZ",
+   "gps": {
+     "longitude": "-101.4527508",
+     "latitude": "26.95571249"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 83,
+   "label": "HERMENEGILDO SANTILLAN",
+   "gps": {
+     "longitude": "-101.436348",
+     "latitude": "26.8902628"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 84,
+   "label": "JUAN BERNARDO(MATERIAS PRIMAS)",
+   "gps": {
+     "longitude": "-101.4383112",
+     "latitude": "26.89547502"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 85,
+   "label": "NICOLAS SIBRIAN (MISC AZTECA)VIERNES",
+   "gps": {
+     "longitude": "-101.4465794",
+     "latitude": "26.89741003"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 86,
+   "label": "MARIA DE LOS SANTOS TORRES",
+   "gps": {
+     "longitude": "-101.4583089",
+     "latitude": "26.91625129"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 87,
+   "label": "MISC TREJO (JAIME SANCHEZ)",
+   "gps": {
+     "longitude": "-101.4468438",
+     "latitude": "26.92048004"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 88,
+   "label": "MISCELANEA LOS BORRADOS",
+   "gps": {
+     "longitude": "-101.4255781",
+     "latitude": "26.94597203"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 89,
+   "label": "REBECA VILLASANA",
+   "gps": {
+     "longitude": "-101.4445582",
+     "latitude": "26.91724909"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 90,
+   "label": "ABEL MARTINEZ CRUZ X QUINCENA",
+   "gps": {
+     "longitude": "-101.4415756",
+     "latitude": "26.91234433"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 91,
+   "label": "JULIA CARRILLO",
+   "gps": {
+     "longitude": "-101.4310586",
+     "latitude": "26.89303754"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 92,
+   "label": "MISC. BLANCO",
+   "gps": {
+     "longitude": "-101.4385295",
+     "latitude": "26.89219432"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 93,
+   "label": "BLANCA LETICIA GARNICA",
+   "gps": {
+     "longitude": "-101.3941799",
+     "latitude": "26.91301632"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 94,
+   "label": "BLANCA ESTELA GARCIA",
+   "gps": {
+     "longitude": "-101.4089374",
+     "latitude": "26.93025777"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 95,
+   "label": "MISC. NENES",
+   "gps": {
+     "longitude": "-101.4362202",
+     "latitude": "26.862535"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 96,
+   "label": "MINI SUPER",
+   "gps": {
+     "longitude": "-101.4269922",
+     "latitude": "26.86120241"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 97,
+   "label": "ALICIA  DE LA ROSA",
+   "gps": {
+     "longitude": "-101.4057093",
+     "latitude": "26.93058028"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 98,
+   "label": "GILBERTO ORTIZ",
+   "gps": {
+     "longitude": "-101.4024323",
+     "latitude": "26.93020965"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 99,
+   "label": "BLANCA IRENE AYALA",
+   "gps": {
+     "longitude": "-101.4043881",
+     "latitude": "26.92415209"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 100,
+   "label": "DORA ALICIA OJEDA",
+   "gps": {
+     "longitude": "-101.404523",
+     "latitude": "26.92694366"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 101,
+   "label": "MISC. SAMA",
+   "gps": {
+     "longitude": "-101.4053254",
+     "latitude": "26.91890689"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 102,
+   "label": "GLORIA LETICIA LEON CAMPOS (FERRETERA 3 MARIAS)",
+   "gps": {
+     "longitude": "-101.4118058",
+     "latitude": "26.91269087"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 103,
+   "label": "JUAN PABLO MANCHA",
+   "gps": {
+     "longitude": "-101.4011448",
+     "latitude": "26.91291816"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 104,
+   "label": "DON CHANO",
+   "gps": {
+     "longitude": "-101.4007758",
+     "latitude": "26.88778898"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 105,
+   "label": "JOSE NATIVIDAD  AMESTA / MISC XOCHITL",
+   "gps": {
+     "longitude": "-101.3945477",
+     "latitude": "26.8904267"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 106,
+   "label": "MISC DORA",
+   "gps": {
+     "longitude": "-101.407209",
+     "latitude": "26.91756631"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 107,
+   "label": "JUANITA LUNA",
+   "gps": {
+     "longitude": "-101.3982622",
+     "latitude": "26.89452406"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 108,
+   "label": "JUANITA  ZUÑIGA(LA CABAÑA)",
+   "gps": {
+     "longitude": "-101.3969319",
+     "latitude": "26.9097958"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 109,
+   "label": "MISC. EL CHICHO",
+   "gps": {
+     "longitude": "-101.402604",
+     "latitude": "26.87983039"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 110,
+   "label": "LA HACIENDA",
+   "gps": {
+     "longitude": "-101.4001453",
+     "latitude": "26.91937888"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 111,
+   "label": "MISCELANEA LAS FLORES",
+   "gps": {
+     "longitude": "-101.405958",
+     "latitude": "26.8833816"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 112,
+   "label": "CONRADO LOPEZ",
+   "gps": {
+     "longitude": "-101.4035297",
+     "latitude": "26.88049747"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 113,
+   "label": "MISCELANEA CESAR",
+   "gps": {
+     "longitude": "-101.3967716",
+     "latitude": "26.88481223"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 114,
+   "label": "RICARDO MALTOS",
+   "gps": {
+     "longitude": "-101.4140256",
+     "latitude": "26.88834049"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 115,
+   "label": "MARIA TERESA BALLESTEROS",
+   "gps": {
+     "longitude": "-101.4315669",
+     "latitude": "26.87131945"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 116,
+   "label": "NORA FRANCO(SUPER 10)",
+   "gps": {
+     "longitude": "-101.4022458",
+     "latitude": "26.88489131"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 117,
+   "label": "EL TICO TICO",
+   "gps": {
+     "longitude": "-101.4135869",
+     "latitude": "26.89206754"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 118,
+   "label": "RAUL SANDOVAL CASTRO(GALLEGOS)",
+   "gps": {
+     "longitude": "-101.3963516",
+     "latitude": "26.91690282"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 119,
+   "label": "MISCDENISSE",
+   "gps": {
+     "longitude": "-101.4020626",
+     "latitude": "26.93013211"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 120,
+   "label": "RODOLFO REYNA",
+   "gps": {
+     "longitude": "-101.3888827",
+     "latitude": "26.93012574"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 121,
+   "label": "LA FAMA",
+   "gps": {
+     "longitude": "-101.3977356",
+     "latitude": "26.92098748"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 122,
+   "label": "FIDENCIO DE LEON C (MISC EL HUIZACHE)",
+   "gps": {
+     "longitude": "-101.3982123",
+     "latitude": "26.91649906"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 123,
+   "label": "CONCEPCION ZENDEJO",
+   "gps": {
+     "longitude": "-101.4072176",
+     "latitude": "26.91187707"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 124,
+   "label": "CELIA MERCADO RAMIREZ",
+   "gps": {
+     "longitude": "-101.4020755",
+     "latitude": "26.90259375"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 125,
+   "label": "MISC LOS RODRIGUEZ",
+   "gps": {
+     "longitude": "-101.3857616",
+     "latitude": "26.93238683"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 126,
+   "label": "ROSA CARMEN CALVILLO",
+   "gps": {
+     "longitude": "-101.3934555",
+     "latitude": "26.92505285"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 127,
+   "label": "MARIA ESTHER MERCADO",
+   "gps": {
+     "longitude": "-101.3863134",
+     "latitude": "26.9254822"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 128,
+   "label": "OLIVIA GOMEZ",
+   "gps": {
+     "longitude": "-101.385266",
+     "latitude": "26.91945706"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 129,
+   "label": "BLANCA HERNANDEZ",
+   "gps": {
+     "longitude": "-101.3884411",
+     "latitude": "26.91951313"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 130,
+   "label": "SANDRA LUZ CARRILLO(Lunes)",
+   "gps": {
+     "longitude": "-101.4349858",
+     "latitude": "26.85429079"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 131,
+   "label": "MARIA DE LA  LUZ ORONA(LA FORTUNA)",
+   "gps": {
+     "longitude": "-101.3965747",
+     "latitude": "26.90144804"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 132,
+   "label": "TORTILLERIA MONSE  (LETY Y ARTURO)",
+   "gps": {
+     "longitude": "-101.3936417",
+     "latitude": "26.90985342"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 133,
+   "label": "TERESA MARTINEZ CERDA",
+   "gps": {
+     "longitude": "-101.3898626",
+     "latitude": "26.91344388"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 134,
+   "label": "MARIA ELENA MARTINEZ RAMIREZ",
+   "gps": {
+     "longitude": "-101.4018192",
+     "latitude": "26.90691402"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 135,
+   "label": "ALICIA MONTAÑEZ CASTILLO (MISC MARCIAL)",
+   "gps": {
+     "longitude": "-101.4022214",
+     "latitude": "26.9047994"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 136,
+   "label": "GENARO RDZ",
+   "gps": {
+     "longitude": "-101.4650281",
+     "latitude": "26.92053533"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 137,
+   "label": "VICTORIA GALVAN DAVILA",
+   "gps": {
+     "longitude": "-101.4557207",
+     "latitude": "26.93449765"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 138,
+   "label": "FELIPA ESCAREÑO",
+   "gps": {
+     "longitude": "-101.4737108",
+     "latitude": "26.91528028"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 139,
+   "label": "MISC GLORIA",
+   "gps": {
+     "longitude": "-101.4058559",
+     "latitude": "26.9086157"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 140,
+   "label": "MARGARITA RAMOS",
+   "gps": {
+     "longitude": "-101.4002823",
+     "latitude": "26.88681275"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 141,
+   "label": "GUADALUPE PEREZ (MISC ROY)",
+   "gps": {
+     "longitude": "-101.4415587",
+     "latitude": "26.89711612"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 142,
+   "label": "KARLA VILLANUEVA",
+   "gps": {
+     "longitude": "-101.4594122",
+     "latitude": "26.93582557"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 143,
+   "label": "JUANITA ALEMAN(MARTES)MISC LA NIÑA",
+   "gps": {
+     "longitude": "-101.3878607",
+     "latitude": "26.93073188"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 144,
+   "label": "CASA GUSTAVO",
+   "gps": {
+     "longitude": "-101.4486122",
+     "latitude": "26.85919862"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 145,
+   "label": "VERONICA ARROYO",
+   "gps": {
+     "longitude": "-101.4268717",
+     "latitude": "26.88815338"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 146,
+   "label": "MISCELANEA  LUPITA JUEV",
+   "gps": {
+     "longitude": "-101.443485",
+     "latitude": "26.87550932"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 147,
+   "label": "ANITA",
+   "gps": {
+     "longitude": "-101.4642448",
+     "latitude": "26.91978962"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 148,
+   "label": "JOSEFINA(ESPOSA DE TOÑO)",
+   "gps": {
+     "longitude": "-101.440622",
+     "latitude": "26.85644953"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 149,
+   "label": "MARIA ANTONIETA LINARES",
+   "gps": {
+     "longitude": "-101.3974933",
+     "latitude": "26.87294497"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 150,
+   "label": "ESC. JOSE M BALLESTEROS",
+   "gps": {
+     "longitude": "-101.4440322",
+     "latitude": "26.86194317"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 151,
+   "label": "LUZ ELENA FABELA",
+   "gps": {
+     "longitude": "-101.4517284",
+     "latitude": "26.91192272"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 152,
+   "label": "MARIA FIDENCIA GUTIERREZ",
+   "gps": {
+     "longitude": "-101.4547891",
+     "latitude": "26.90785015"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 153,
+   "label": "FRANCISCO CORREA",
+   "gps": {
+     "longitude": "-101.4289238",
+     "latitude": "26.88663337"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 154,
+   "label": "COMESTIBLES EL PEDREGAL",
+   "gps": {
+     "longitude": "-101.4099647",
+     "latitude": "26.90784842"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 155,
+   "label": "FERNANDO MARTINEZ",
+   "gps": {
+     "longitude": "-101.409977",
+     "latitude": "26.91409741"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 156,
+   "label": "ROSALBA GONZALEZ",
+   "gps": {
+     "longitude": "-101.4718617",
+     "latitude": "26.91713704"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 157,
+   "label": "MARIA ISABEL",
+   "gps": {
+     "longitude": "-101.4051776",
+     "latitude": "26.9132131"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 158,
+   "label": "MARTHA TORRES",
+   "gps": {
+     "longitude": "-101.4274269",
+     "latitude": "26.93636701"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 159,
+   "label": "JUANA MARTINEZ(PARTICULAR)",
+   "gps": {
+     "longitude": "-101.3977998",
+     "latitude": "26.90939285"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 160,
+   "label": "CABALGANTES",
+   "gps": {
+     "longitude": "-101.386782",
+     "latitude": "26.92178805"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 161,
+   "label": "JAIME ARIZPE",
+   "gps": {
+     "longitude": "-101.4674151",
+     "latitude": "26.92072227"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 162,
+   "label": "ALICIA MIRELES(22 JUNIO SERGIO)",
+   "gps": {
+     "longitude": "-101.3994662",
+     "latitude": "26.91326503"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 163,
+   "label": "MANUEL RIOJAS",
+   "gps": {
+     "longitude": "-101.4482562",
+     "latitude": "26.85714771"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 164,
+   "label": "MISCELANEA SARAHI",
+   "gps": {
+     "longitude": "-101.4002282",
+     "latitude": "26.88016002"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 165,
+   "label": "MISC HERNANDEZ",
+   "gps": {
+     "longitude": "-101.4602951",
+     "latitude": "26.92336485"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 166,
+   "label": "JOSEFINA NEIRA",
+   "gps": {
+     "longitude": "-101.4082225",
+     "latitude": "26.89303971"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 167,
+   "label": "MISCELANEA ANGELA",
+   "gps": {
+     "longitude": "-101.4034582",
+     "latitude": "26.92979761"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 168,
+   "label": "YAZMIN CEDILLO",
+   "gps": {
+     "longitude": "-101.4627236",
+     "latitude": "26.92182263"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 169,
+   "label": "CRISTOBALINA TORRES",
+   "gps": {
+     "longitude": "-101.4382717",
+     "latitude": "26.85650386"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 170,
+   "label": "VICTORIA CERDa",
+   "gps": {
+     "longitude": "-101.4066702",
+     "latitude": "26.91208153"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 171,
+   "label": "AMADO MARTINEZ",
+   "gps": {
+     "longitude": "-101.3996708",
+     "latitude": "26.92159403"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 172,
+   "label": "JUANITA DE LA CRUZ",
+   "gps": {
+     "longitude": "-101.3892911",
+     "latitude": "26.91455378"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 173,
+   "label": "MISC BRENDA",
+   "gps": {
+     "longitude": "-101.4558832",
+     "latitude": "26.90676161"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 174,
+   "label": "GRISELDA ADAME RAMIREZ",
+   "gps": {
+     "longitude": "-101.4453959",
+     "latitude": "26.92726116"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 175,
+   "label": "MISC LOLITA",
+   "gps": {
+     "longitude": "-101.453215",
+     "latitude": "26.85682356"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 176,
+   "label": "MINI SUPER YESMAR",
+   "gps": {
+     "longitude": "-101.4234861",
+     "latitude": "26.85062648"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 177,
+   "label": "AMADA ORTIZ",
+   "gps": {
+     "longitude": "-101.433769",
+     "latitude": "26.85369574"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 178,
+   "label": "MISC ANGELA",
+   "gps": {
+     "longitude": "-101.4438826",
+     "latitude": "26.87236862"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 179,
+   "label": "GUADALUPE PEÑA  MISC NETOS",
+   "gps": {
+     "longitude": "-101.4043898",
+     "latitude": "26.89475694"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 180,
+   "label": "DACIA MARIBEL GARCIA",
+   "gps": {
+     "longitude": "-101.4355666",
+     "latitude": "26.89820601"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 181,
+   "label": "NIEVES ORTA",
+   "gps": {
+     "longitude": "-101.4463132",
+     "latitude": "26.94552261"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 182,
+   "label": "LUCIA CALZADA",
+   "gps": {
+     "longitude": "-101.4442579",
+     "latitude": "26.90915262"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 183,
+   "label": "FERRETERA OBRERA",
+   "gps": {
+     "longitude": "-101.432238",
+     "latitude": "26.87199537"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 184,
+   "label": "SILVIA TORRES GARCIA",
+   "gps": {
+     "longitude": "-101.4140621",
+     "latitude": "26.89294327"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 185,
+   "label": "MANUEL CORONA DE LA CRUZ",
+   "gps": {
+     "longitude": "-101.4322336",
+     "latitude": "26.87134409"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 186,
+   "label": "MARIA GUADALUPE MANCHA",
+   "gps": {
+     "longitude": "-101.4480324",
+     "latitude": "26.9100541"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 187,
+   "label": "ELSA MEDRANO RODRIGUEZ",
+   "gps": {
+     "longitude": "-101.4549905",
+     "latitude": "26.93820366"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 188,
+   "label": "FRANCISCO JAVIER FLORES",
+   "gps": {
+     "longitude": "-101.4210611",
+     "latitude": "26.93880604"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 189,
+   "label": "EL CHANGARRO",
+   "gps": {
+     "longitude": "-101.4666199",
+     "latitude": "26.92471018"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 190,
+   "label": "MA ISABEL",
+   "gps": {
+     "longitude": "-101.4006911",
+     "latitude": "26.9203358"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 191,
+   "label": "RAFAEL MENDEZ FERRETERA MENDEZ",
+   "gps": {
+     "longitude": "-101.4487084",
+     "latitude": "26.85950769"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 192,
+   "label": "ROCIO SANCHEZ GARCIA",
+   "gps": {
+     "longitude": "-101.4498524",
+     "latitude": "26.91405775"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 193,
+   "label": "MARIBEL DIAZ( EL CAMPIRANO)",
+   "gps": {
+     "longitude": "-101.4649844",
+     "latitude": "26.92112167"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 194,
+   "label": "FERRETERA GUADALUPE",
+   "gps": {
+     "longitude": "-101.4565881",
+     "latitude": "26.91007218"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 195,
+   "label": "FERRETERA BARBARA",
+   "gps": {
+     "longitude": "-101.4599034",
+     "latitude": "26.93637944"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 196,
+   "label": "MIRNA MONA CARRIZALEZ",
+   "gps": {
+     "longitude": "-101.4099445",
+     "latitude": "26.91131231"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 197,
+   "label": "ROSA M MORIN",
+   "gps": {
+     "longitude": "-101.4092356",
+     "latitude": "26.93252474"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 198,
+   "label": "FRANCISCA MARTINEZ",
+   "gps": {
+     "longitude": "-101.4346688",
+     "latitude": "26.88523569"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 199,
+   "label": "MA DOLORES RODRIGUEZ",
+   "gps": {
+     "longitude": "-101.4535417",
+     "latitude": "26.90704664"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 200,
+   "label": "JUANNI MORENO",
+   "gps": {
+     "longitude": "-101.4318077",
+     "latitude": "26.87577629"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 201,
+   "label": "MISC NICOLAS",
+   "gps": {
+     "longitude": "-101.4505523",
+     "latitude": "26.91639696"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 202,
+   "label": "ZENONA  RUIZ",
+   "gps": {
+     "longitude": "-101.4038921",
+     "latitude": "26.88447341"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 203,
+   "label": "MISC 3 HERMANOS",
+   "gps": {
+     "longitude": "-101.3979865",
+     "latitude": "26.87318928"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 204,
+   "label": "MISC LAURA",
+   "gps": {
+     "longitude": "-101.3854678",
+     "latitude": "26.93143525"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 205,
+   "label": "MISC ROSY",
+   "gps": {
+     "longitude": "-101.4060203",
+     "latitude": "26.90879235"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 206,
+   "label": "MISC DELGADO",
+   "gps": {
+     "longitude": "-101.4064851",
+     "latitude": "26.90840234"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 207,
+   "label": "MISC CESAR",
+   "gps": {
+     "longitude": "-101.4334682",
+     "latitude": "26.86012158"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 208,
+   "label": "FERRETERA MAURI",
+   "gps": {
+     "longitude": "-101.4335321",
+     "latitude": "26.85975618"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 209,
+   "label": "GUADALUPE ARRIETA",
+   "gps": {
+     "longitude": "-101.4319484",
+     "latitude": "26.85712699"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 210,
+   "label": "GONGORA (USO PROPIO)",
+   "gps": {
+     "longitude": "-101.4501122",
+     "latitude": "26.85820508"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 211,
+   "label": "PAULA GONZALEZ",
+   "gps": {
+     "longitude": "-101.4599855",
+     "latitude": "26.93399266"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 212,
+   "label": "FERRECLEAN",
+   "gps": {
+     "longitude": "-101.4415201",
+     "latitude": "26.93292574"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 213,
+   "label": "MISC LOS TRES REYES",
+   "gps": {
+     "longitude": "-101.4521606",
+     "latitude": "26.85598382"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 214,
+   "label": "CARMELA",
+   "gps": {
+     "longitude": "-101.4285145",
+     "latitude": "26.94089887"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 215,
+   "label": "MISC TONY",
+   "gps": {
+     "longitude": "-101.4639624",
+     "latitude": "26.92199558"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 216,
+   "label": "IRMA",
+   "gps": {
+     "longitude": "-101.4636529",
+     "latitude": "26.92163012"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 217,
+   "label": "CLIENTE HUGO",
+   "gps": {
+     "longitude": "-101.4080104",
+     "latitude": "26.89190689"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 218,
+   "label": "JOHANNA GONGORA (CLIENTE HUGO)",
+   "gps": {
+     "longitude": "-101.4023788",
+     "latitude": "26.89028871"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  },
+  {
+   "id": 219,
+   "label": "PARTICULAR",
+   "gps": {
+     "longitude": "-101.4569549",
+     "latitude": "26.9432887"
+    },
+   "demanda_inferior": 6,
+   "demanda_superior": 12
+  }
+]

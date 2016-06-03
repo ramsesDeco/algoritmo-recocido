@@ -1,3 +1,9 @@
+.lugar_demanda{
+ width:30px;
+ vertical-align: middle;
+ display: inline-block;
+ 
+}
 button{
 	padding: .5em 1em;
 }

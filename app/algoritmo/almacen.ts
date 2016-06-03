@@ -2,11 +2,11 @@ import {punto} from "./punto";
 
 let almacen: punto = {
 	_id: 0,
-	label: 'Almacen',
+	label: 'QG (Almacen)',
 	request: 0,
 	gps: {
-		latitude: '25.442445',
-		longitude: '-100.993266'
+		latitude: '-101.4311329',
+		longitude: '26.84595508'
 	}
 }
 
