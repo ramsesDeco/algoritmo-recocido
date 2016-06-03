@@ -1,0 +1,29 @@
+button{
+	padding: .5em 1em;
+}
+
+label{
+ font-weight: bold;
+ font-size: 17px;
+}
+
+li:first-child{
+ font-size: 18px;
+ font-weight: bold;
+}
+li{
+ margin: 5px;
+}
+ul{
+ padding: 0;
+ list-style: none;
+}
+ul span{
+ max-width:20px;
+ min-width:20px;
+ padding: 4px 8px;
+ text-align: left;
+ background-color: rgba(214, 211, 232, 0.25);
+ vertical-align: middle;
+ display: inline-block;
+}

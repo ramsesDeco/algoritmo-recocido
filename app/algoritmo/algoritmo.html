@@ -1,0 +1,55 @@
+<div>
+
+	<label>Capacidad del carro: {{carro.capacidad}}</label>
+	<br/>
+	<button (click)='algoritmo()'>Iniciar</button>
+	<button (click)='reiniciar()'>Reiniciar</button>
+
+	<h2>Solucion</h2>
+	<table width="100%" border="1">
+		<thead>
+			<tr>
+				<th >Recorrido</th>
+				<th>valor</th>
+			</tr>
+		</thead>
+		<tbody>
+
+			<tr *ngFor='let recorrido of solucionInicial.rutas; let i = "index"'>
+				<td>
+					<table width="100%">
+						<thead>
+							<th align="center" width="60%">Lugares</th>
+							<th align="center" width="40%">Demanda</th>
+						</thead>
+						<tbody>
+							<tr *ngFor='let lugar of recorrido.lugares;'>
+								<td align="center">{{lugar.label}}</td>
+								<td align="center">{{lugar.request}}</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+
+				<td align="center">{{recorrido.valor}} mts</td>
+			</tr>
+
+			<tr>
+				<td colspan="2" align="center">Valor Total:  <b>{{solucionInicial.valor}} mts</b> </td>
+			</tr>
+		</tbody>
+	</table>
+
+
+
+	<div class="temperaturas">
+			<ul>
+				<li>temperaturas</li>
+				<li *ngFor="let temp of temperaturas;let i = 'index';">
+					<span>{{i+1}}: </span> {{temp}}°
+				</li>
+			</ul>
+	</div>
+
+
+</div>
